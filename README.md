@@ -1,4 +1,4 @@
-# Crumb---Co
+# Crumb-and-Co
 A desktop bakery management application built as a university group project. Designed to handle the full customer experience for a bakery business, from account creation through to order management, with a separate admin interface.
 
 What it does:
